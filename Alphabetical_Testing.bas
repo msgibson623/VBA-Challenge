@@ -1,4 +1,4 @@
-Attribute VB_Name = "AlphabeticalTesting"
+Attribute VB_Name = "Module1"
 Sub AlphabeticalTesting()
 
       'Loops through all the worksheets
